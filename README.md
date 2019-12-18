@@ -1,4 +1,4 @@
-# 银行离职人员预测模型
+# 银行顾客流失预测模型
 
 ![Bank Customers](https://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/c8ea15ce36d3d539ee64cf8d3787e950352ab027.jpg "Bank Customers")
 
