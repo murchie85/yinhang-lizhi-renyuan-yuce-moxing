@@ -46,7 +46,16 @@ python kehu_jianmo.py
 `drop_first=True` 表示删除了第一个字段，即SPAIN. .剩余的数据可以推断出该删除的字段
 
 
+# 资料翻译
 
+| CreditScore        | Geography           | Gender  | Age  | Tenure  | Balance  | NumOfProducts  | HasCrCard  |IsActiveMember  | EstimatedSalary  | Exited  |
+| ------------- |-------------| -----|
+| 信用评分     | 地点| 性别 | 年龄 | 任期 | 银行存款余额 | 产品数量 | 有信用卡吗？ | 是活跃会员吗？ | 估计薪水 | 离开银行了吗 |
+
+
+
+
+	CustomerId	Surname											
 
 ```
 #----------------------------------------------------------------------------------------------
